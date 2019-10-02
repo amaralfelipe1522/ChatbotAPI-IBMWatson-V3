@@ -1,0 +1,24 @@
+{
+  "name": "8bitbot",
+  "version": "1.0.0",
+  "description": "It is for study purposes only",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Amaral de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.1",
+    "prompt-sync": "^4.1.7",
+    "watson-developer-cloud": "^3.5.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "chatbot",
+    "watson",
+    "nodejs"
+  ]
+}
